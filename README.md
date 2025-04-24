@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Clémence
 
-<!--
-**clemencerds/clemencerds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a curious, adaptable, and passionate **front-end developer** with a background full of twists — from being a specialty coffee passionate barista to running my own freelance business as a tour guide, creating websites, mastering SEO, and now: writing code that solves real problems.
 
-Here are some ideas to get you started:
+## 🌱 My Journey Into Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After years of wearing many hats professionally, I built my own website/blog for my freelance guiding work — learning the ropes of web development, SEO, and content management. That hands-on experience sparked something bigger: a desire to build tools from scratch, not just tweak existing ones.
+
+I officially dove into **front-end development** and quickly fell in love with **React**. I’m now on a mission to keep learning, keep building, and contribute to projects that make life a little easier (and sometimes a little more fun).
+
+## 🧠 What I Bring
+
+- A love for learning and a curiosity that never shuts up
+- A multi-tasking background that taught me how to adapt, communicate, and get stuff done
+- Experience in building, maintaining, and optimizing websites — with strong SEO knowledge
+- A desire to build tools that make life easier, happier, or just a bit smoother
+
+## 🔧 Tech Stack
+
+- **Languages & Tools**: HTML, CSS, JavaScript, React  
+- **Also into**: SEO, responsive design, accessibility
+- **Learning now**: Testing, advanced React patterns, React router
+
+## 🌍 What I'm Looking For
+
+I'm currently looking for my **first front-end developer role** — ideally in a **caring, dynamic team** where I can keep learning and contribute everything I’ve gathered from my many professional lives (problem-solving, communication, adaptability... and React!).
+
+## 🤝 Let’s Connect!
+
+I’d love to connect with developers, teams, and fellow career switchers!  
+
+
+
+
