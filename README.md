@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Clémence
 
-I’m a curious, adaptable, and passionate **front-end developer** with a background full of twists — from being a specialty coffee passionate barista to running my own freelance business as a tour guide, creating websites, mastering SEO, and now: writing code that solves real problems.
+I’m a curious, adaptable, and passionate **front-end developer** with a background full of twists — from being a specialty coffee barista to running my own freelance business as a tour guide, creating websites, mastering SEO, and now: writing code that solves real problems.
 
 ## 🌱 My Journey Into Code
 
